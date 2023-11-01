@@ -1,0 +1,1 @@
+{"MinHealingAngle":"0","MaxHealingAngle":"75","IncrementAngle":"5","MaxDraftMark":"12"}

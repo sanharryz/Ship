@@ -1,0 +1,28 @@
+{
+  "Liquids": [
+    {
+      "Name": "Water Ballast",
+      "Code": "WB"
+    },
+    {
+      "Name": "Fresh Water",
+      "Code": "FW"
+    },
+    {
+      "Name": "Disel Oil",
+      "Code": "DO"
+    },
+    {
+      "Name": "Miscelennious",
+      "Code": "MSC"
+    },
+    {
+      "Name": "Liquid Cargo",
+      "Code": "WB"
+    },
+    {
+      "Name": "Fuel Oil",
+      "Code": "FO"
+    }
+  ]
+}

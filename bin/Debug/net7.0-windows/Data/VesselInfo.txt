@@ -1,0 +1,1 @@
+{"VesselName":"Mahavir","VesselType":"test","IMONo":"10000","LOA":"127.195","LBP":"119","Breadth":"20.4","Depth":"11.5","Draft":"8.514","Displacement":"16790.14","Lightship":"3903.174","Deadweight":"12887","Grosstonnage":"8351000","NetTonnage":"0","WaterDensity":"1.025"}

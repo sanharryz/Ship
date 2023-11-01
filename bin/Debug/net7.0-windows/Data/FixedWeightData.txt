@@ -1,0 +1,1 @@
+{"FixedWeights":[{"FSM":"0.00","LCG":"39.08","Name":"Constant","TCG":"0.00","VCG":"12.23","Weight":"30750"}]}

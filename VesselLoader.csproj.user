@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="DamageStabilityView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FixedWeightView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IntactHeelView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="IntactStabilityView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="IntactTrimView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LoadingView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LongitudnaStrengthView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SettingView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="VesselInfoView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
